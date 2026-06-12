@@ -1,8 +1,7 @@
 {
-  "name": "awesome-util",
+  "name": "awesome-node-util",
   "version": "1.0.0",
   "scripts": {
-    "postinstall": "node setup.js",
     "start": "node index.js"
   }
 }
